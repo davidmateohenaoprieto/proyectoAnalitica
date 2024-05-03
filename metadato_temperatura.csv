@@ -1,0 +1,13 @@
+METADATO;DESCRIPCION
+Serie de tiempo desde;2007
+Definición del indicador;Se refiere al grado de calor específico del aire en un lugar y momento determinado, así como la evolución temporal y espacial de dicho elemento en las distintas zonas climáticas. Constituye el elemento meteorológico más importante en la delimitación de la mayor parte de los tipos climáticos. Temperatura máxima: Es la mayor temperatura del aire alcanzada en un lugar en un día, mes, año o periodo determinado. Temperatura mínima: Se trata de la menor temperatura alcanzada en un lugar en un día, en un mes o en un año y también la mínima absoluta alcanzada en los registros de temperaturas de un lugar determinado. Temperatura promedio: Se trata de los promedios estadísticos obtenidos entre las temperaturas máximas y mínimas.
+Utilidad ;Monitorear las temperaturas máximas, mínimas y promedios horarios registradas en Bogotá D.C
+Unidad de medición;°C
+Periodicidad;Anual
+Meta ;Formular el componente de Salud Ambiental del Plan Nacional de Adaptación al Cambio Climático PNACC, e implementado en el 100% de las Direcciones Territoriales de Salud (Plan Decenal de Salud Pública).
+Fuente de Información Numerador;Secretaría Distrital de Ambiente, Red de Monitoreo de Calidad del Aire de Bogotá (RMCAB). El procesamiento de los datos de temperatura es realizado por parte de la Secretaría Distrital de Salud, a partir de los datos horarios suministrados por la RMCAB de la Secretaria Distrital de Ambiente, para las estaciones que componen la red. Los valores de temperatura promedio, máxima y mínima se calculan a partir de los valores horarios registrados durante los días del mes respectivo. Se toman los datos de todas las estaciones que reportan temperatura y donde se tienen datos disponibles.
+Fuente de Información Denominador;N/A
+año/Mes ;Periodo de recolección de la información 
+°C;El grado Celsius (en símbolo en °C), es la unidad de una escala de medición de temperatura
+ENOS;El Niño-Oscilación del Sur (ENOS) es un fenómeno natural que implica temperaturas oceánicas fluctuantes en el Pacífico ecuatorial. 
+Formula de cálculo;Temperatura promedio: (Temperatura promedio horaria de cada estación meteorológica) / Número disponible de estaciones que reportan el valor de temperatura. Temperatura máxima y mínima: (Valor absoluto de temperatura mínima y máxima del valor horario del mes)
